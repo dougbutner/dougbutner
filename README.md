@@ -13,9 +13,8 @@ ___
 
 
 - 🔭 I’m currently working on: Main: cXc.world, Aquarius.Academy. Side: [tomoonfor.earth](https://tomoonfor.earth), [digdoug.rocks](https://digdoug.rocks)
-- 🌱 I’m currently learning: C++, NodeJS
-- 👯 I’m looking to collaborate on: Any of my projects! 
-- 🤔 I’m looking for help with: Artwork, NodeJS + jQuery programming position.
+- 👯 I’m looking to collaborate on: Any of my projects!
+- 🤔 I’m looking for help with: Spreading the news, Artwork, Good vibes.
 - 💬 Ask me about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, UBI, Time Tokens
 - 📫 How to reach me: TG @godsolislove
 
