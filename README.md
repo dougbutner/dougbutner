@@ -6,17 +6,17 @@
 
 
 
-- 🔭 I’m currently working on: [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](https://tomoonfor.earth), [digdoug.rocks](https://digdoug.rocks)
-- 👯 I’m looking to collaborate on: Any of my projects! 
-- 🤔 I’m looking for help with: Spreading the news and interacting with cXc and Aquarius Academy, Artwork, Good vibes.
-- 💬 Ask me about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, UBI, Time Tokens
-- 📫 How to reach me: TG @godsolislove
+- 🔭 I’m currently building: [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](https://tomoonfor.earth), [digdoug.rocks](https://digdoug.rocks)
+- 🌞 I’m looking to collaborate on: [Effective Collective](https://github.com/dougbutner/effective-collective) and [Web 4](https://github.com/dougbutner/web-4)
+- ✋ Grow with us, take a role in cXc. Ask how in t.me/cXc.world
+- 💬 Let's chat me about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, UBI, Time Tokens
+- ✈️ Drop a line: TG @godsolislove
 
-- ⚡ Fun fact: I have been a Digital Nomad for nearly 4 years!! Living mostly in Latin America.
+- 🌎 Fun fact: I have been a Digital Nomad for nearly 4 years!! Living mostly in Latin America.
 
 ___   
 
-## 📫 Drop a Line
+## Let's connect on
 
  [Instagram](https://instagram.com/iammonlove) | Telegram @godsolislove | [Twitter](https://twitter.com/dougbutner) | or just ✉️ [Email](mailto:douglas@cxc.world) 
 
