@@ -6,7 +6,7 @@
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-
+- ⛩️ Member of [Eden](https://edeneos.org/), [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/)
 - 🔭 I’m currently building: [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [$GOLD + $SILVER](https://github.com/dougbutner/gold), and [perma.rocks](https://perma.rocks)
 - 🌞 I’m looking to collaborate on: [Effective Collective](https://github.com/dougbutner/effective-collective) and [Web 4](https://github.com/dougbutner/web-4)
 - ✋ Grow with us, take a role in cXc. Ask how in [t.me/cXc_world](https://t.me/cXc_world)
