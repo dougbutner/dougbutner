@@ -28,7 +28,6 @@ ___
 
  [Instagram](https://instagram.com/iammonlove) | Telegram @godsolislove | [Twitter](https://twitter.com/dougbutner) | or just ✉️ [Email](mailto:douglas@cxc.world) 
 
-## Follow My Moves
-Discover my current [pursuits](https://linktr.ee/cxc.world)
+## Follow My [Current Moves](https://linktr.ee/cxc.world)
 
 ___  
