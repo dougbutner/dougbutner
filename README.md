@@ -7,6 +7,8 @@
  <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b>
 </h3>
 
+___
+
 ### I create biomimetic economies to help conscious expressions blossom + fruit, starting on [cXc.world](https://music.cxc.world)
 
 ### I also teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) 
