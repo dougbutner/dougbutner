@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Douglas
 
-<center> 🧙‍♂️ [Druid](https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1) 👨‍🏫 [Teacher](https://www.skillshare.com/r/user/douglasbutner?gr_tch_ref=on&gr_trp=on) 🎙 [Rapper](https://soundcloud.com/sirdouglasfresh/popular-tracks) 🎨 [Designer](https://www.redbubble.com/people/SirDouglasFresh/shop) </center>
+🧙‍♂️ [Druid](https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1) 👨‍🏫 [Teacher](https://www.skillshare.com/r/user/douglasbutner?gr_tch_ref=on&gr_trp=on) 🎙 [Rapper](https://soundcloud.com/sirdouglasfresh/popular-tracks) 🎨 [Designer](https://www.redbubble.com/people/SirDouglasFresh/shop)
+
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">🧙‍♂️ Druid</a>
+</p>
 
 ### I crete biomimetic economies to help conscious expressions blossom + fruit, starting on [cXc.world](https://music.cxc.world)
 
