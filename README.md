@@ -1,12 +1,13 @@
 # Hi there 👋 I'm Douglas
 
-🧙‍♂️ [Druid](https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1) 👨‍🏫 [Teacher](https://www.skillshare.com/r/user/douglasbutner?gr_tch_ref=on&gr_trp=on) 🎙 [Rapper](https://soundcloud.com/sirdouglasfresh/popular-tracks) 🎨 [Designer](https://www.redbubble.com/people/SirDouglasFresh/shop)
-
-<p align="center">
- <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">🧙‍♂️ Druid</a>
+<p align="center"><b>
+ <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">🧙‍♂️ Druid</a> ~ 
+ <a href="https://www.skillshare.com/r/user/douglasbutner?gr_tch_ref=on&gr_trp=on">👨‍🏫 Teacher</a> ~ 
+ <a href="https://soundcloud.com/sirdouglasfresh/popular-tracks">🎙 Rapper</a> ~ 
+ <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b>
 </p>
 
-### I crete biomimetic economies to help conscious expressions blossom + fruit, starting on [cXc.world](https://music.cxc.world)
+### I create biomimetic economies to help conscious expressions blossom + fruit, starting on [cXc.world](https://music.cxc.world)
 
 ### I also teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) 
 
