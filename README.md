@@ -15,7 +15,7 @@ ___
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛩️ Member of [Eden](https://edeneos.org/), [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/)
+- ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/)
 - 🔭 I’m currently building: [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](tomoonfor.earth), and [perma.rocks](https://perma.rocks)
 - 🌞 I’m looking to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4)
 - ✋ Grow with us, join a monthly cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
