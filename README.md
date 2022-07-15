@@ -33,7 +33,7 @@ ___
 [🔺 cXc Email](mailto:douglas@cxc.world)
 [🥽 Landian Email](mailto:douglas@landian.io)
 
-
-# [🔗🌳](https://linktr.ee/iammonlove)
-
+<h3 align="center">
+ <h1><a href="https://linktr.ee/iammonlove">🧙‍🔗🌳</a></h1>
+</h3>
 ___  
