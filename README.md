@@ -30,10 +30,12 @@ ___
 
 ## Looking to talk business?
 
-[🔺 cXc Email](mailto:douglas@cxc.world)
-[🥽 Landian Email](mailto:douglas@landian.io)
+[🔺 cXc Email](mailto:douglas@cxc.world)  
+[🥽 Landian Email](mailto:douglas@landian.io) 
+ 
+<h1 align="center">
+<a href="https://linktr.ee/iammonlove">🔗🌳</a>
+</h1>
 
-<h3 align="center">
- <h1><a href="https://linktr.ee/iammonlove">🧙‍🔗🌳</a></h1>
-</h3>
+
 ___  
