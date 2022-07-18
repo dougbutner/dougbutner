@@ -31,7 +31,6 @@ ___
 ## Work with Douglas. Tell me how we can score a win<sup>3</sup>.
 
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
-[🥽 douglas.b@landian.io](mailto:douglas.b@landian.io) 
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
