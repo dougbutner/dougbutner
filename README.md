@@ -7,28 +7,44 @@
  <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b>
 </h3>
 
+
+
 ___
 
-### I create biomimetic economies to help conscious expressions blossom + fruit, starting on [cXc.world](https://music.cxc.world)
+
+# Pondering Wanderings 🤔🛣
+
+___
+
+# [Web 4](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems
+
+# [Tribe](https://github.com/dougbutner/tribe.cxc.world) - Cultivating Culture
+
+# [Collective Participation Income](https://github.com/dougbutner/effective-collective) - Social, Commercial, and Personal project funding
+
+--- 
+
+
+### I design tokenomics to empower people to empower people, starting with [$PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
 
 ### I also teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) 
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛓👷‍♂️ Blockchain Architect at [🥽 Landian Metaverse](https://landian.io)  
+- ⛓👷‍♂️ Blockchain Architect + Tokenomic Guru (Available for consultation + building together)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
 - 🔭 I’m currently building: 🗺🎶 [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](tomoonfor.earth), and [perma.rocks](https://perma.rocks) 
 - 🌞 I’m looking to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4)
 - ✋🪶✋ Grow with us, join a monthly cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
-- ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@dougbutner](https://instagram.com/iammonlove) | [telegram@dougbutner](https://twitter.com/dougbutner)
+- ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@dougbutner](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
 - 🌎 Fun fact: I have been a Digital Nomad for over 4 years!! Living mostly in Latin America. Currently in Medellin, CO.
 
 
 ___   
 
-## Work with Douglas. Tell me how we can score a win<sup>3</sup>.
+## Let's worl. Tell me how we can score a win<sup>3</sup>.
 
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
  
