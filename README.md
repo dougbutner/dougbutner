@@ -16,11 +16,13 @@ ___
 
 ___
 
-## [Web 4](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems
+### [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview)  
 
-## [Tribe](https://github.com/dougbutner/tribe.cxc.world) - Cultivating Culture
+### [Web 4](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems  
 
-## [Collective Participation Income](https://github.com/dougbutner/effective-collective) - Social, Commercial, and Personal project funding
+### [Tribe](https://github.com/dougbutner/tribe.cxc.world) - Cultivating Culture  
+
+### [Collective Participation Income](https://github.com/dougbutner/effective-collective) - Social, Commercial, and Personal project funding
 
 --- 
 
