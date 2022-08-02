@@ -46,7 +46,7 @@ ___
 
 ___   
 
-## Let's worl. Tell me how we can score a win<sup>3</sup>.
+## Tell me how we can score a win<sup>3</sup>.
 
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
  
