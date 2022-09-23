@@ -33,7 +33,8 @@ ___
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛓👷‍♂️ Blockchain Architect + Tokenomic Guru (Available for consultation + building together)
+- ⛓👷‍♂️ Blockchain Architect + Tokenomic Guru
+- 🧙‍♂️🎇 Artist behind [Mystic 🔮 Pixels](https:linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
 - 🔭 I’m currently building: 🗺🎶 [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](tomoonfor.earth), and [perma.rocks](https://perma.rocks) 
 - 🌞 I’m looking to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4)
@@ -49,6 +50,8 @@ ___
 ## Tell me how we can score a win<sup>3</sup>.
 
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
+
+## Available for [consultation](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything)
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
