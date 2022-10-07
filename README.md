@@ -51,7 +51,8 @@ ___
 
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
 
-## Available for [consultation](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything)
+## Available for consultation 🤝
+> Book a [30 minute meeting for free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything) 
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
