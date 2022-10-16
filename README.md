@@ -7,6 +7,11 @@
  <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b>
 </h3>
 
+___
+
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + [Aquarius Academy](https://aquarius.academy/)
+
++  side projects [GOLD + Silver](https://dappradar.com/wax/defi/gold) + [Proof of Choice](https://democracy.academy)
 
 
 ___
@@ -16,7 +21,7 @@ ___
 
 ___
 
-### [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview)  
+### [Mapps](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) - Dapps on Maps 
 
 ### [Web 4](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems  
 
@@ -36,13 +41,12 @@ ___
 - ⛓👷‍♂️ Blockchain Architect + Tokenomic Guru
 - 🧙‍♂️🎇 Artist behind [Mystic 🔮 Pixels](https:linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
-- 🔭 I’m currently building: 🗺🎶 [cXc.world](https://music.cxc.world), [Aquarius.Academy](https://aquarius.academy/) and side projects [tomoonfor.earth](tomoonfor.earth), and [perma.rocks](https://perma.rocks) 
 - 🌞 I’m looking to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4)
 - ✋🪶✋ Grow with us, join a monthly cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
-- ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@dougbutner](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
+- ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 Fun fact: I have been a Digital Nomad for over 4 years!! Living mostly in Latin America. Currently in Medellin, CO.
+- 🌎 Fun fact: I have been a Digital Nomad for over 4 years!! Living mostly in Latin America. Currently at [Camazotz Finca](https://camazotzfinca.com/), MX.
 
 
 ___   
@@ -52,7 +56,7 @@ ___
 [🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
 
 ## Available for consultation 🤝
-> Book a [30 minute meeting for free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything) 
+> Your first [30 minute meeting is free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I do one free session per week.
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
