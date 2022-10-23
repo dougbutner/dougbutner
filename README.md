@@ -31,29 +31,29 @@ ___
 
 --- 
 
+# Empowering People 💫🙏 <sup>2</sup>
 
-### I design tokenomics to empower people to empower people, starting with [$PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
+___
 
-### I also teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) 
+### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
+
+### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also on [github with full 7-11-12 model course text] 
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
 - ⛓👷‍♂️ Blockchain Architect + Tokenomic Guru
-- 🧙‍♂️🎇 Artist behind [Mystic 🔮 Pixels](https:linktr.ee/mystic_pixels_)
+- 🧙‍♂️🎇 Artist behind [🔮 Mystic](https://linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
-- 🌞 I’m looking to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4)
-- ✋🪶✋ Grow with us, join a monthly cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
+- 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
+- I loe c
+- ✋🪶✋ Grow in a cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 Fun fact: I have been a Digital Nomad for over 4 years!! Living mostly in Latin America. Currently at [Camazotz Finca](https://camazotzfinca.com/), MX.
+- 🌎 I have been a Digital Nomad for over 4 years, mostly in Latin America. Currently at [Camazotz Finca](https://camazotzfinca.com/), MX.
 
 
 ___   
-
-## Tell me how we can score a win<sup>3</sup>.
-
-[🔺 douglas@cxc.world](mailto:douglas@cxc.world)  
 
 ## Available for consultation 🤝
 > Your first [30 minute meeting is free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I do one free session per week.
