@@ -31,13 +31,13 @@ ___
 
 --- 
 
-# Empowering People 💫🙏 <sup>2</sup>
+# Empowering People<sup>2</sup> 💫🙏
 
 ___
 
 ### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
 
-### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also on [github with full 7-11-12 model course text] 
+### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also on github we have the [7-11-12 Model of Universal Consciousness as a PDF](https://github.com/dougbutner/universal-consciousness/blob/master/Universal%20Consciousness%20Succinctly.pdf) 
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
@@ -45,7 +45,6 @@ ___
 - 🧙‍♂️🎇 Artist behind [🔮 Mystic](https://linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
-- I loe c
 - ✋🪶✋ Grow in a cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
@@ -56,7 +55,7 @@ ___
 ___   
 
 ## Available for consultation 🤝
-> Your first [30 minute meeting is free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I do one free session per week.
+> [DM me](https://twitter.com/dougbutner) what you'd like to discuss to apply for your first [idea session with Douglas for free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I give out one free session per month, by first approved.
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
