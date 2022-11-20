@@ -41,7 +41,7 @@ ___
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator
+- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator on NEAR and Antelope
 - 🧙‍♂️🎇 Artist behind [🔮 Mystic](https://linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
