@@ -37,7 +37,7 @@ ___
 
 ### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
 
-### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also on github we have the [7-11-12 Model of Universal Consciousness as a PDF](https://github.com/dougbutner/universal-consciousness/blob/master/Universal%20Consciousness%20Succinctly.pdf) 
+### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
