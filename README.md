@@ -9,7 +9,7 @@
 
 ___
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + [Aquarius Academy](https://aquarius.academy/)
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [MaMi AI](https://machineminds.gumroad.com/subscribe) 
 
 +  side projects [GOLD + Silver](https://dappradar.com/wax/defi/gold) + [Proof of Choice](https://democracy.academy)
 
