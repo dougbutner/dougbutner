@@ -18,7 +18,7 @@ ___
   
 # Get Active with Us 🏀
 
-### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization (WAX Testnet DAO)  
+### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization (WAX Testnet)  
 
 ___
 
