@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Douglas
+# Hi there 👋 I'm Douglas aka [Gudasol 🜛](https://ampl.ink/gudasol)
 
 <h3 align="center"><b>
  <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">🧙‍♂️ Druid</a> ~ 
@@ -9,10 +9,16 @@
 
 ___
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [MaMi AI](https://machineminds.substack.com/subscribe) 
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) 
 
-+  side projects [GOLD + Silver](https://dappradar.com/wax/defi/gold) + [Proof of Choice](https://democracy.academy)
++  side project [GOLD](https://dappradar.com/wax/defi/gold) 
 
+
+___
+  
+# Get Active with Us 🏀
+
+### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization (WAX Testnet DAO)  
 
 ___
 
@@ -25,13 +31,11 @@ ___
 
 ### [Web 4](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems  
 
-### [Tribe](https://github.com/dougbutner/tribe.cxc.world) - Cultivating Culture  
-
 ### [Collective Participation Income](https://github.com/dougbutner/effective-collective) - Social, Commercial, and Personal project funding
 
 --- 
 
-# Empowering People<sup>2</sup> 💫🙏
+# Empowering People<sup>2</sup> 💫🙏 Designing Futures
 
 ___
 
@@ -45,16 +49,15 @@ ___
 - 🧙‍♂️🎇 Artist behind [🔮 Mystic](https://linktr.ee/mystic_pixels_)
 - ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
-- ✋🪶✋ Grow in a cXc Moon Meet 🌕 [lu.ma/cxc](https://lu.ma/cxc)
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 I have been a Digital Nomad for over 4 years, mostly in Latin America. Currently at [Camazotz Finca](https://camazotzfinca.com/), MX.
+- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently in Medellín, CO.
 
 
 ___   
 
-## Available for consultation 🤝
+## Let's Talk 🤝
 > [DM me](https://twitter.com/dougbutner) what you'd like to discuss to apply for your first [idea session with Douglas for free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I give out one free session per month, by first approved.
  
 <h1 align="center">
