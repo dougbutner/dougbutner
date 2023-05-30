@@ -54,6 +54,8 @@ ___
 
 - 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently in Medellín, CO.
 
+[![Gudasol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougbutner)](https://github.com/dougbutner/github-readme-stats)
+
 
 ___   
 
