@@ -1,15 +1,21 @@
 # Hi there 👋 I'm Douglas aka [Gudasol 🜛](https://ampl.ink/gudasol)
 
 <h3 align="center"><b>
- <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">🧙‍♂️ Druid</a> ~ 
- <a href="https://www.skillshare.com/r/user/douglasbutner?gr_tch_ref=on&gr_trp=on">👨‍🏫 Teacher</a> ~ 
+ <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">👽 Teacher </a> ~ 
  <a href="https://soundcloud.com/sirdouglasfresh/popular-tracks">🎙 Rapper</a> ~ 
- <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b>
+ <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b> ~ 
+  <a href="https://gudasol.gumroad.com">🧙‍♂️ Mystic</a>
 </h3>
 
 ___
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) 
+## 🤝 Tetra is currently hiring: 
+
+- Frontend dev for small custom builds
+- C++ dev with experience in Antelope / EOSIO smart contract dev
+
+
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) + [Tetra](https://tetra.earth)
 
 +  side project [GOLD](https://dappradar.com/wax/defi/gold) 
 
@@ -18,7 +24,7 @@ ___
   
 # Get Active with Us 🏀
 
-### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization (WAX Testnet)  
+### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization Social Club (Now in Season 2)
 
 ___
 
@@ -46,8 +52,8 @@ ___
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
 - ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator on NEAR and Antelope
-- 🧙‍♂️🎇 Artist behind [🔮 Mystic](https://linktr.ee/mystic_pixels_)
-- ⛩️ Member of [Eden](https://edeneos.org/), Critic of [Fractally](https://fractally.com/) + Loud proponent of [Hypha](https://hypha.earth/) 
+- 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
+- ⛩️ Member of [Eden](https://edeneos.org/), Loud proponent of [Hypha](https://hypha.earth/) 
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
