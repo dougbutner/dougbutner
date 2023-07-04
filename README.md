@@ -66,7 +66,7 @@ ___
 ___   
 
 ## Let's Talk 🤝
-> [DM me](https://twitter.com/dougbutner) what you'd like to discuss to apply for your first [idea session with Douglas for free](https://doodle.com/bp/douglasfromaquariusacademycxc/ask-me-anything). I give out one free session per month, by first approved.
+> I am no longer able keep up with free idea sessions, but I'm still available to help you with anything I cam. [pricing](https://gudasol.gumroad.com/).
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
