@@ -51,7 +51,7 @@ ___
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator on NEAR and Antelope
+- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator on EOSIO + Antelope
 - 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
 - ⛩️ Member of [Eden](https://edeneos.org/), Loud proponent of [Hypha](https://hypha.earth/) 
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
