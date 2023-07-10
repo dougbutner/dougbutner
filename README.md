@@ -66,7 +66,7 @@ ___
 ___   
 
 ## Let's Talk 🤝
-> I am no longer able keep up with free idea sessions, but I'm still available to help you with anything I cam. [pricing](https://gudasol.gumroad.com/).
+> I am no longer able keep up with free idea sessions, but I'm still available to help you. [pricing](https://gudasol.gumroad.com/).
  
 <h1 align="center">
 <a href="https://linktr.ee/iammonlove">🔗🌳</a>
