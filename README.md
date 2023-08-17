@@ -9,6 +9,10 @@
 
 ___
 
+## Learn about Tetra ⨻
+
+- [know.tetra.earth](https://know.tetra.earth)
+
 ## 🤝 Tetra is currently hiring: 
 
 - Frontend dev for small custom builds
