@@ -2,14 +2,14 @@
 
 <h3 align="center"><b>
  <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">👽 Teacher </a> ~ 
- <a href="https://soundcloud.com/sirdouglasfresh/popular-tracks">🎙 Rapper</a> ~ 
+ <a href="https://douglas.life/music">🎙 Rapper</a> ~ 
  <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b> ~ 
   <a href="https://gudasol.gumroad.com">🧙‍♂️ Mystic</a>
 </h3>
 
 ___
 
-## Learn about Tetra ⨻
+## Learn about Tetra ⨻ 
 
 - [know.tetra.earth](https://know.tetra.earth)
 
@@ -19,16 +19,16 @@ ___
 - C++ dev with experience in Antelope / EOSIO smart contract dev
 
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) + [Tetra](https://tetra.earth)
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) + ⨻ [Tetra](https://tetra.earth)
 
 +  side project [GOLD](https://dappradar.com/wax/defi/gold) 
 
 
 ___
   
-# Get Active with Us 🏀
+# Sign up to play 🏀 
 
-### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization Social Club (Now in Season 2)
+### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization Social Club (Now in Season 3)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently in Medellín, CO.
+- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently based in Medellín, CO / Maryland, USA
 
 [![Gudasol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougbutner)](https://github.com/dougbutner/github-readme-stats)
 
@@ -73,7 +73,7 @@ ___
 > I am no longer able keep up with free idea sessions, but I'm still available to help you. [pricing](https://gudasol.gumroad.com/).
  
 <h1 align="center">
-<a href="https://linktr.ee/iammonlove">🔗🌳</a>
+<a href="https://linktr.ee/gudasol">🔗🌳</a>
 </h1>
 
 
