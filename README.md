@@ -1,34 +1,44 @@
-# Hi there 👋 I'm Douglas aka [Gudasol 🜛](https://ampl.ink/gudasol)
+# Hi there 👋 I'm Douglas aka [Gudasol 🜛](https://ampl.ink/gudasol) / o en español, soy [White Puma 🐆](https://puma.red)
 
 <h3 align="center"><b>
- <a href="https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1">👽 Teacher </a> ~ 
- <a href="https://douglas.life/music">🎙 Rapper</a> ~ 
- <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a></b> ~ 
-  <a href="https://gudasol.gumroad.com">🧙‍♂️ Mystic</a>
+ <a href="https://in.aquarius.academy">👽 Teacher </a> ~ 
+ <a href="https://lu.ma/aquadac">✊ Leader </a> ~ 
+ <a href="https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi">🎙 Rapper</a> ~ 
+ <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a> ~ 
+ <a href="https://gudasol.gumroad.com">🧙‍♂️ Visionary</a>
+</b>
 </h3>
 
 ___
 
 ## Learn about Tetra ⨻ 
+Raising Awareness | Rewarded Action | Rhythmic Actualization
 
-- [know.tetra.earth](https://know.tetra.earth)
+Tetra is the greatest system I've ever designed because it brings people together, and empowers opinion to become truth. 
 
-## 🤝 Tetra is currently hiring: 
+[Learn more](https://discord.com/invite/ZSU5BgGTAY)
 
-- Frontend dev for small custom builds
-- C++ dev with experience in Antelope / EOSIO smart contract dev
+## 🤝 Tetra is currently [recruiting](https://discord.com/invite/ZSU5BgGTAY): 
+
+Community
+- Discord Mods
+- Local Ambassadors 
+
+Development
+- Svelte developer
+- Antelope smart contract dev
 
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://machineminds.substack.com/subscribe) + ⨻ [Tetra](https://tetra.earth)
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
 
 +  side project [GOLD](https://dappradar.com/wax/defi/gold) 
 
 
 ___
   
-# Sign up to play 🏀 
+# Play the Game 🏀 of Life with Aquadac 🏺
 
-### [Aquadac](https://lu.ma/aquadac) - Collective Self-Realization Social Club (Now in Season 3)
+### [Aquadac](https://lu.ma/aquadac) - Empowerment Collective (Now in Season 3)
 
 ___
 
@@ -49,7 +59,7 @@ ___
 
 ___
 
-### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer)
+### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer) and lately with [RA]()
 
 ### I teach an open course on [Universal Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
 
@@ -62,19 +72,18 @@ ___
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
 - ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@dougbutner](https://twitter.com/dougbutner) | [insta@iammonlove](https://instagram.com/iammonlove) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently based in Medellín, CO / Maryland, USA
+- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently in Guatemala, and based in Medellín, CO / Maryland, USA
 
-[![Gudasol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougbutner)](https://github.com/dougbutner/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougbutner&layout=donut)
 
 
 ___   
 
 ## Let's Talk 🤝
-> I am no longer able keep up with free idea sessions, but I'm still available to help you. [pricing](https://gudasol.gumroad.com/).
+> I am no longer able keep up with free idea sessions, but I'm still available to help you. [learn more](https://gudasol.gumroad.com/).
  
 <h1 align="center">
 <a href="https://linktr.ee/gudasol">🔗🌳</a>
 </h1>
-
 
 ___  
