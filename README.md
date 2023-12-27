@@ -9,24 +9,35 @@
 </b>
 </h3>
 
-# Project Linktrees
+# 🌳 Forest of Linktrees
 
 <h3 align="center"><b>
  <a href="https://linktr.ee/aquarius.academy"> ⨇ Aquarius Academy </a> ~ 
  <a href="https://linktr.ee/tetra.earth"> ⨻ Tetra </a> ~ 
  <a href="https://linktr.ee/cXc.world"> 🗺 cXc </a> ~ 
- <a href="https://linktr.ee/gudasol"> 🜛 Gudasol (me) </a> ~ 
+ <a href="https://linktr.ee/gudasol"> Gudasol 🜛 </a> ~ 
+ <a href="https://linktr.ee/gudasol"> White Puma </a>
 </b>
 </h3>
+
+# 🎮 Hoard of Discords 
+
+<h3 align="center"><b>
+ <a href="https://discord.gg/KnbA47n6Zj"> ⨇ Aquarius Academy </a> ~ 
+ <a href="https://discord.gg/ZSU5BgGTAY"> ⨻ Tetra </a> ~ 
+ <a href="https://discord.gg/u3kpj7xEWZ"> 🗺 cXc </a> ~ 
+ <a href="https://discord.gg/MrRXZYhHfp"> Gudasol 🜛 </a> ~ 
+ <a href="https://discord.gg/jeDbjj3EHS"> White Puma </a>
+</b>
+</h3>
+
 
 ___
 
 ## Learn about Tetra ⨻ 
 **Raising Awareness** | Rewarded Action | Rhythmic Actualization
 
-Tetra is my gift to humanity, bringing people together to create + enjoy. 
-
-[Join + Earn TETRA on Discord](https://discord.com/invite/ZSU5BgGTAY)
+Tetra is the sun God's gift to humanity, bringing people together to create + enjoy. 
 
 ## 🤝 Tetra is currently [recruiting](https://discord.com/invite/ZSU5BgGTAY): 
 
@@ -79,18 +90,17 @@ ___
 - 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
 - 🎙 Musician behind [Gudasol](https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi) and [White Puma](https://puma.red)
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
-- 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time Tokens, Channeling.
-- ✈️ Get @ me: [hive@douglasjames](https://peakd.com/@douglasjames) | [twitter@gudasol_](https://twitter.com/gudasol_) | [insta@gudasol_](https://instagram.com/gudasol_) | [telegram@godsolislove](https://tg.me/godsolislove)
+- 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time + Space Tokens, Channeling.
+- ✈️ Get @ me: [discord@gudasol_](https://discord.gg/MrRXZYhHfp) | [insta@gudasol_](https://instagram.com/dougbutner) | [telegram@godsolislove](https://tg.me/godsolislove)
 
-- 🌎 I have been a Digital Nomad for over 5 years, mostly in Latin America. Currently in Guatemala, and based in Medellín, COL / Maryland, USA
+- 🌎 [Digital Nomad](https://gudasol.gumroad.com/l/become-digital-nomad) for over 6 years, mostly in Latin America. Currently in Lago de Atitlán, and based in Medellín, COL. From Maryland, USA
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougbutner&layout=donut)
-
 
 ___   
 
 ## Let's Talk 🤝
-> I am no longer able keep up with free idea sessions, but I'm still available to help you. [learn more](https://gudasol.gumroad.com/).
+> I am no longer able keep up with free idea sessions, but I'm always available to help you. [learn more](https://gudasol.gumroad.com/).
  
 <h1 align="center">
 <a href="https://linktr.ee/gudasol">🔗🌳</a>
