@@ -34,20 +34,44 @@
 
 ___
 
-## Learn about Tetra ⨻ 
+## Learn about Tetra ⨻ [know.tetra.earth](https://know.tetra.earth)
 **Raising Awareness** | Rewarded Action | Rhythmic Actualization
 
-Tetra is the sun God's gift to humanity, bringing people together to create + enjoy. 
+### Why
+Tetra mirrors the Sun's gift to humanity, bringing people together to create + enjoy.
 
-## 🤝 Tetra is currently [recruiting](https://discord.com/invite/ZSU5BgGTAY): 
+### How
+Localized transparent competetions for awareness
 
+- Creators 🛠️ Start a public project
+ - Ask for help with Open Positions
+- Stay on track with deliverables
+
+- Supporters 🤝 Raise awareness for projects you love
+ - Optional: Step up and help with deliverables
+
+Every cycle, celebrate together 
+
+🌞 Starting May 5, 2024 on [tetra.earth](https://tetra.earth)
+ 
+### What
+- Make a list of local projects you want to support
+- Tetra pays you + the project a token utilized to Raise Awareness
+- 3 month cycles of project deliverables
+ - Project sets goals
+ - Project reports deliverables every 3 months
+ - Project + Supporters rate the completion 0-100
+
+## 🤝 Tetra [invites you](https://discord.com/invite/ZSU5BgGTAY): 
+
+**Speak up if you'd like to pick up a role.**
 Community
 - Discord Mods
-- Local Ambassadors 
+- National Ambassadors 
 
 Development
-- Svelte developer
-- Antelope smart contract dev
+- Svelte developers
+- Antelope smart contract developers
 
 
 ## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
