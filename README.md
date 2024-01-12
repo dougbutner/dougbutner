@@ -34,21 +34,25 @@
 
 ___
 
-## Learn about Tetra ⨻ [know.tetra.earth](https://know.tetra.earth)
-**Raising Awareness** | Rewarded Action | Rhythmic Actualization
-
-### Why
-Tetra mirrors the Sun's gift to humanity, bringing people together to create + enjoy.
+## Cultivate Culture on Tetra ⨻ [know.tetra.earth](https://know.tetra.earth)
+### Why: Your Mission
+Complete the Fourth World, so Earth can carry forward multi-cultural abundance + economic stability in the new age of Aquarius.
 
 ### How
-Localized transparent competetions for awareness
+Raise Awareness (RA) within your community, bringing people together to create + enjoy life.
 
-- Creators 🛠️ Start a public project
- - Ask for help with Open Positions
-- Stay on track with deliverables
+### What
+Localized transparent competetive economies for awareness
 
-- Supporters 🤝 Raise awareness for projects you love
- - Optional: Step up and help with deliverables
+- Creators 🛠️ Start a public [tree-style project](https://know.tetra.earth/info/system/projects)
+ - Branches (teams) produce Seasonal deliverables (fruit) every 3 months
+ - Funding comes from supporters who [list](https://know.tetra.earth/info/system/lists) your project
+ - You can sell through the system, in RA, or using your existing solution
+
+- Supporters 🤝 Cultivate Culture in your community
+ - Earn [RA](https://know.tetra.earth/info/system/localnomics) by curating a list of projects you want to Raise Awareness for
+ - Taste fruit (deliverables) from projects you support + rate 0-100 each season
+ - Gain exclusive channels and join the community
 
 Every cycle, celebrate together 
 
