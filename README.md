@@ -12,7 +12,7 @@
 # 🌳 Forest of Linktrees
 
 <h3 align="center"><b>
- <a href="https://linktr.ee/aquarius.academy"> ⨇ Aquarius Academy </a> ~ 
+ <a href="https://linktr.ee/aquariusacademy"> ⨇ Aquarius Academy </a> ~ 
  <a href="https://linktr.ee/tetra.earth"> ⨻ Tetra </a> ~ 
  <a href="https://linktr.ee/cXc.world"> 🗺 cXc </a> ~ 
  <a href="https://linktr.ee/gudasol"> Gudasol 🜛 </a> ~ 
