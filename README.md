@@ -34,9 +34,9 @@
 
 ___
 
-## Cultivate Culture on Tetra ⨻ [know.tetra.earth](https://know.tetra.earth)
-### Why: Your Mission
-Complete the Fourth World, so Earth can carry forward multi-cultural abundance + economic stability in the new age of Aquarius.
+## I believe Tetra will elevate human consciousness ⨻ [know.tetra.earth](https://know.tetra.earth)
+### Why
+Empower individual preference to carry forward multi-cultural abundance + economic stability.
 
 ### How
 Raise Awareness (RA) within your community, bringing people together to create + enjoy life.
@@ -56,26 +56,11 @@ Localized transparent competetive economies for awareness
 
 Every cycle, celebrate together 
 
-🌞 Starting May 5, 2024 on [tetra.earth](https://tetra.earth)
- 
-### What
-- Make a list of local projects you want to support
-- Tetra pays you + the project a token utilized to Raise Awareness
-- 3 month cycles of project deliverables
- - Project sets goals
- - Project reports deliverables every 3 months
- - Project + Supporters rate the completion 0-100
+🌞 Starting May 5, 2026 on [tetra.earth](https://tetra.earth)
+
 
 ## 🤝 Tetra [invites you](https://discord.com/invite/ZSU5BgGTAY): 
 
-**Speak up if you'd like to pick up a role.**
-Community
-- Discord Mods
-- National Ambassadors 
-
-Development
-- Svelte developers
-- Antelope smart contract developers
 
 
 ## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
