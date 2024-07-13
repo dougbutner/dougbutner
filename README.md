@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Douglas aka [Gudasol 🜛](https://ampl.ink/gudasol) 
+# Hi there 👋 I'm Douglas 
 <h3 align="center"><b>
  <a href="https://in.aquarius.academy">👽 Teacher </a> ~ 
  <a href="https://lu.ma/aquadac">✊ Leader </a> ~ 
@@ -20,7 +20,9 @@ ___
 
 ## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
 
-
+- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator behind [Ups](https://github.com/currentxchange/ups) 
+- 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
+- 🎙 Voice behind [Gudasol](https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi)
 
 # 🌳 Forest of Linktrees
 
@@ -48,9 +50,9 @@ ___
 
 > my php 🏡 **[douglas.life](https://douglas.life/)** 
 
-- ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator on EOSIO + Antelope
-- 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
-- 🎙 Musician behind [Gudasol](https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi) and [White Puma](https://puma.red)
+  
+
+
 - 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time + Space Tokens, Channeling.
 - ✈️ Get @ me: [discord@gudasol_](https://discord.gg/MrRXZYhHfp) | [insta@gudasol_](https://instagram.com/gudasol) | [telegram@godsolislove](https://tg.me/godsolislove)
