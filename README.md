@@ -53,7 +53,7 @@ ___
   
 
 
-- 🌞 I’m keen to collaborate on: [cXc.world Smart Contracts (EOSIO)](https://github.com/dougbutner/beta-pseudo) and [Web 4](https://github.com/dougbutner/web-4) ideas
+- 🌞 I’m keen to collaborate on cXc, Tetra, and Aquarius Academy
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time + Space Tokens, Channeling.
 - ✈️ Get @ me: [discord@gudasol_](https://discord.gg/MrRXZYhHfp) | [insta@gudasol_](https://instagram.com/gudasol) | [telegram@godsolislove](https://tg.me/godsolislove)
 
