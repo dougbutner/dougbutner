@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Douglas 
 <h3 align="center"><b>
  <a href="https://in.aquarius.academy">👽 Teacher </a> ~ 
- <a href="https://lu.ma/aquadac">✊ Leader </a> ~ 
  <a href="https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi">🎙 Rapper</a> ~ 
  <a href="https://www.redbubble.com/people/SirDouglasFresh/shop">🎨 Designer</a> ~ 
  <a href="https://gudasol.gumroad.com">🧙‍♂️ Visionary</a>
@@ -18,7 +17,7 @@ ___
 
 ### I teach an open course on [Cosmic Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [rius Academy](https://rius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
 
 - ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator behind [Ups](https://github.com/currentxchange/ups) 
 - 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
@@ -33,7 +32,6 @@ ___
  <a href="https://linktr.ee/gudasol"> Gudasol 🜛 </a> 
 </b>
 </h3>
-
 
 
 # Pondering Wanderings 🤔🛣
