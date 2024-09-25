@@ -11,16 +11,18 @@
 
 # What I do: Empower People<sup>2</sup> 💫🙏 Design Futures
 
+> My guiding principles are to protect free will and expand human experience. I specialize in geometric forms that challenge beings to evolve past any limiting plane of existence. This manner of expression comes out in my ideas, music, code, art, and my work with trees.
+
 ___
 
 ### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer) and lately with [RA](https://know.tetra.earth/info/system/localnomics)
 
-### I teach an open course on [Cosmic Consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
+### I teach a geometric model of [cconsciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
 
-## 👷‍♂️ I’m currently building: 🔺 [cXc](https://linktr.ee/cxc.world) + ⨇ [rius Academy](https://rius.academy/) + 🦾 [Machine Minds AI](https://godsol.gumroad.com) + ⨻ [Tetra](https://tetra.earth)
+## 👷‍♂️ I’m currently building: 🔺 [cXc](https://cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [XParty](https://xparty.win) + ⨻ [Tetra](https://tetra.earth)
 
 - ⛓👷‍♂️ Blockchain Architect + Tokenomic Innovator behind [Ups](https://github.com/currentxchange/ups) 
-- 🧙‍♂️🎇 Artist behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
+- 🧙‍♂️🎇 Fashionista behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop)
 - 🎙 Voice behind [Gudasol](https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi)
 
 # 🌳 Forest of Linktrees
@@ -34,21 +36,7 @@ ___
 </h3>
 
 
-# Pondering Wanderings 🤔🛣
-
-___
-
-### [Mapps paper for cXc.world](https://docs.google.com/document/d/1YppJ2EYumRI2j0UHYdZh7NJMObMI_NfHgaFRLbjgBtw/preview) - Dapps on Maps 
-
-### [Web 4 Manifesto](https://github.com/dougbutner/web-4) - Time Tokens, Proof of Individuality, Information Entropy, Geotemporal Systems  
-
-### [Collective Participation Income (ideas now in Tetra)](https://github.com/dougbutner/effective-collective) - Social, Commercial, and Personal project funding
-
-
-
-> my php 🏡 **[douglas.life](https://douglas.life/)** 
-
-  
+# 🏡 **[douglas.life](https://douglas.life/)** 
 
 
 - 🌞 I’m keen to collaborate on cXc, Tetra, and Aquarius Academy
@@ -62,7 +50,7 @@ ___
 ___   
 
 ## Let's Work 🤝
-> I'm always available to [help you advance.](https://gudasol.gumroad.com/).
+> I'm always available to [help your projects advance faster.](https://gudasol.gumroad.com/).
  
 <h1 align="center">
 <a href="https://linktr.ee/gudasol">🔗🌳</a>
