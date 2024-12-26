@@ -15,9 +15,9 @@
 
 ___
 
-### I design tokenomics to empower people to empower creators + curators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer) and lately with [RA](https://know.tetra.earth/info/system/localnomics)
+### I give people tools to experience creations through empowering the creators, starting with [🔯 PURPLE on WAX](https://github.com/currentxchange/purple-explainer) and lately with [Tetra](https://know.tetra.earth/)
 
-### I teach a geometric model of [cconsciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
+### I help people understand reality, offering a geometric model of [consciousness](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/)
 
 ## 👷‍♂️ I’m currently building: 🔺 [cXc](https://cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [XParty](https://xparty.win) + ⨻ [Tetra](https://tetra.earth)
 
@@ -41,7 +41,7 @@ ___
 
 - 🌞 I’m keen to collaborate on cXc, Tetra, and Aquarius Academy
 - 💬 Let's chat about: [Web 4](https://github.com/dougbutner/web-4), Geotemporal Systems, Biomimetic Economics, Fractal Information, Platonic Solids, Collective Participation Income (CPI), Time + Space Tokens, Channeling.
-- ✈️ Get @ me: [discord@gudasol_](https://discord.gg/MrRXZYhHfp) | [insta@gudasol_](https://instagram.com/gudasol) | [telegram@godsolislove](https://tg.me/godsolislove)
+- ✈️ Get @ me: [discord@gudasol](https://discord.gg/MrRXZYhHfp) | [insta@gudasol_](https://instagram.com/gudasol) | [telegram@godsolislove](https://tg.me/godsolislove)
 
 - 🌎 [Digital Nomad](https://gudasol.gumroad.com/l/become-digital-nomad) for over 6 years, mostly in Latin America. Currently in Lago de Atitlán, and based in Medellín, COL. From Maryland, USA
 
@@ -49,8 +49,8 @@ ___
 
 ___   
 
-## Let's Work 🤝
-> I'm always available to [help your projects advance faster.](https://gudasol.gumroad.com/).
+## Grow among us 🤝
+> We're seeking bright individuals to walk beside us in [Tetra](https://t.me/tetragrids)
  
 <h1 align="center">
 <a href="https://linktr.ee/gudasol">🔗🌳</a>
