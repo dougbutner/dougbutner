@@ -11,7 +11,7 @@
 
 # What I do: Empower People<sup>2</sup> 💫🙏 Design Futures
 
-> My guiding principles are to protect free will and expand human experience. I specialize in geometric forms that challenge beings to evolve past any limiting plane of existence. This manner of expression comes out in my ideas, music, code, art, and my work with trees.
+> My primary directives are to protect free will and expand human experience. I specialize in geometric forms that challenge beings to evolve past any limiting plane of existence. This manner of expression comes out in my ideas, music, code, art, and my work with trees.
 
 ___
 
