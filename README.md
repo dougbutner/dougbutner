@@ -51,7 +51,7 @@ ___
 ___   
 
 ## Grow among us 🤝
-> We're seeking bright individuals to walk beside us in [Tetra](https://t.me/tetragrids)
+> We're seeking bright individuals to walk beside us in [Tetra](https://linktr.ee/tetra.earth)
  
 <h1 align="center">
 <a href="https://linktr.ee/gudasol">🔗🌳</a>
