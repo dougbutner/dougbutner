@@ -1,4 +1,9 @@
 # Hi there 👋 I'm Douglas 
+
+<p align="center">
+  <img src="assets/headshot.png" width="480" alt="Douglas Butner — 20+ Courses, 2,000+ Reviews, 100,000+ Students"/>
+</p>
+
 <h3 align="center"><b>
  <a href="https://in.aquarius.academy">👽 Teacher </a> ~ 
  <a href="https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi">🎙 Rapper</a> ~ 
@@ -21,7 +26,7 @@ ___
 
 ## 👷‍♂️ I’m currently building: 🔺 [cXc](https://cxc.world) + ⨇ [Aquarius Academy](https://aquarius.academy/) + 🦾 [XParty](https://xparty.win) + ⨻ [Tetra](https://tetra.earth)
 
-- ⛓👷‍♂️ Blockchain Architect + keyboard warrior behind [Ups](https://github.com/currentxchange/ups) | [Web4 Media Standards](httpes://tools.cxc.world) | [Loot - Gamified NFT Staking](https://github.com/currentxchange/loot) | [EASY reflective stable+ coin](https://aquariusacademy.notion.site/EASY-Liftoff-206ac693574b80e5aca2ddd57156b265)
+- ⛓👷‍♂️ Blockchain Architect + keyboard warrior behind [Ups](https://github.com/currentxchange/ups) | [Web4 Media Standards](https://github.com/currentxchange/WAX-NFT-Metadata-Standards) | [Loot - Gamified NFT Staking](https://github.com/currentxchange/loot) | [EASY reflective stable+ coin](https://aquariusacademy.notion.site/EASY-Liftoff-206ac693574b80e5aca2ddd57156b265)
 - 🧙‍♂️🎇 Fashionista behind [🔮 Sir Douglas FRESH](https://www.redbubble.com/people/SirDouglasFresh/shop) | [Fresh Thread Shop](https://www.redbubble.com/people/FreshThreadShop/shop)
 - 🎙 Voice behind [Gudasol]([https://open.spotify.com/playlist/2WEKrYq0mht0kyFguEcYzi](https://open.spotify.com/artist/4pRIUvglBRR8WYqBxXgbl9/discography)) | [Ammon the Wind](https://open.spotify.com/artist/2FfzRVuBtUAcAWPBx0mppG/discography/all) | [Ammon](https://open.spotify.com/artist/4seBsQrvamB7bbQ2UIftxU/discography/all) 
 - 💫 Messanger behind 7-11 Model of Universal Consciousness [Youtube](https://www.youtube.com/watch?v=kk2RGJZXyvk&list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1&index=1) [Repo](https://github.com/dougbutner/universal-consciousness)
